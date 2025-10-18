@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monitor Your Plex Server Like a Pro"
-date: 2025-08-22 08:00:00 -0500
+date: 2025-09-22 08:00:00 -0500
 categories: self-hosted
 tags: plex homelab self-hosted monitoring
 image:
@@ -158,6 +158,10 @@ You can access dashboards by:
 You can also use the **search bar** at the top of Grafana to quickly find dashboards by name.
 
 ---
+
+## Join the conversation
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Ever wonder why <a href="https://twitter.com/plex?ref_src=twsrc%5Etfw">@plex</a> buffers even when your server looks fine?<br><br>I built the Ultimate Plex Dashboard with Prometheus + Grafana to track CPU, GPU, disks, streams &amp; more - all in one place.<br><br>👉<a href="https://t.co/V1cHwjfDT1">https://t.co/V1cHwjfDT1</a> <a href="https://t.co/gpGU8uezdI">pic.twitter.com/gpGU8uezdI</a></p>&mdash; Techno Tim (@TechnoTimLive) <a href="https://twitter.com/TechnoTimLive/status/1970184791761850609?ref_src=twsrc%5Etfw">September 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This setup provides a single dashboard with system, Plex, and container monitoring in one place. Open Grafana, pick a dashboard, and start exploring your metrics.
 
