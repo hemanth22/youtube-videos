@@ -178,6 +178,10 @@ Inside other containers, you may need to call the host at its bridge IP (e.g., `
 * **Compose service ordering** → ensure your app `depends_on` the model service
 * **Can't connect to localhost:12434** → ensure `Enable host-side TCP support` is enabled in Docker Desktop and you are not running inside of a container (that uses `http://model-runner.docker.internal/engines/v1`)
 
+## Join the conversation
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">What is Docker Model Runner - and why should you care? I show how I use <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> Model Runner to run models locally and build a Next.js chat app.<a href="https://t.co/5iiGbf21F1">https://t.co/5iiGbf21F1</a></p>&mdash; Techno Tim (@TechnoTimLive) <a href="https://twitter.com/TechnoTimLive/status/1979571128264982767?ref_src=twsrc%5Etfw">October 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 
 ## Links

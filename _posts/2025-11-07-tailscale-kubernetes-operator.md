@@ -292,7 +292,9 @@ This will expose this service on your Tailnet.  You will see it in your Tailscal
 
 e.g.
 
-[<https://diagram.tail1234.ts.net](https://diagram.tail1234.ts.net>)
+```text
+https://diagram.tail1234.ts.net
+```
 
 Now I can access Draw.io privately from any device connected to Tailscale.
 
@@ -389,6 +391,10 @@ Over the past few weeks, I’ve gone from knowing very little about Tailscale be
 It’s completely changed how I think about Kubernetes networking - making something complex feel *almost* easy 😅 .
 
 I’m Tim - thanks for reading and for watching.
+
+## Join the conversation
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Back at it with another mini rack - this time in Dark Mode.<br>A private Kubernetes cluster secured by Tailscale.<br>And the whole thing? It’s being given away.<a href="https://t.co/epriZOeuiF">https://t.co/epriZOeuiF</a> <a href="https://t.co/1c66EvSuvL">pic.twitter.com/1c66EvSuvL</a></p>&mdash; Techno Tim (@TechnoTimLive) <a href="https://twitter.com/TechnoTimLive/status/1986867749398761832?ref_src=twsrc%5Etfw">November 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
