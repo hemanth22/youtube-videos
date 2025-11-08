@@ -16,6 +16,17 @@ Have questions or a different setup that works for you?  Leave a comment, I'd lo
 {% include embed/youtube.html id='gPL7_tzsJO8' %}
 📺 [Watch Video](https://www.youtube.com/watch?v=gPL7_tzsJO8)
 
+> *Starting with TrueNAS 25.10, you will need to add a services key to your custom yaml for new stacks and when updating your existing stacks.  Everything else is the same.*
+{: .prompt-info }
+
+e.g.
+
+```yaml
+include:
+  - /mnt/storage0/home-assistant/compose.yaml
+services: {}
+```
+
 ## The Approach
 
 We're going to:
