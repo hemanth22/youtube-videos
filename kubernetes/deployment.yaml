@@ -7,7 +7,7 @@ spec:
   selector:
     matchLabels:
       app: technotim-docs
-  replicas: 4
+  replicas: 3
   progressDeadlineSeconds: 600
   revisionHistoryLimit: 3
   strategy:
