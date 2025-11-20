@@ -81,13 +81,13 @@ It's best to start with the [default values in the repo](https://github.com/timo
 ```yaml
 # change these to your liking, the only required are: --disable servicelb, --tls-san {{ apiserver_endpoint }}
 extra_server_args: >-
-  {{ extra_args }}
-  {{ '--node-taint node-role.kubernetes.io/master=true:NoSchedule' if k3s_master_taint else '' }}
-  --tls-san {{ apiserver_endpoint }}
+  {% raw %}{{ extra_args }}{% endraw %}
+  {% raw %}{{ '--node-taint node-role.kubernetes.io/master=true:NoSchedule' if k3s_master_taint else '' }}{% endraw %}
+  --tls-san {% raw %}{{ apiserver_endpoint }}{% endraw %}
   --disable servicelb
   --disable traefik
 extra_agent_args: >-
-  {{ extra_args }}
+  {% raw %}{{ extra_args }}{% endraw %}
 ```
 
 I would not change these values unless you know what you are doing.It will most likely not work for you but listing for posterity.

@@ -128,7 +128,7 @@ flux create image update flux-system \
 --push-branch=main \
 --author-name=fluxcdbot \
 --author-email=fluxcdbot@users.noreply.github.com \
---commit-template="{{range .Updated.Images}}{{println .}}{{end}}" \
+--commit-template="{% raw %}{{range .Updated.Images}}{{println .}}{{end}}{% endraw %}" \
 --export > ./clusters/home/flux-system-automation.yaml
 ```
 

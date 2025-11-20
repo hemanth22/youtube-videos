@@ -293,11 +293,11 @@ paste this config in the file:
   
   # Loki Labels
   labels.forwarder = 'vector'
-  labels.host = '{{ host }}'
-  labels.container_name = '{{ container_name }}'
-  labels.compose_service = '{{ label.com\.docker\.compose\.service }}'
-  labels.compose_project = '{{ label.com\.docker\.compose\.project }}'
-  labels.source = '{{ stream }}'
+  labels.host = '{% raw %}{{ host }}{% endraw %}'
+  labels.container_name = '{% raw %}{{ container_name }}{% endraw %}'
+  labels.compose_service = '{% raw %}{{ label.com\.docker\.compose\.service }}{% endraw %}'
+  labels.compose_project = '{% raw %}{{ label.com\.docker\.compose\.project }}{% endraw %}'
+  labels.source = '{% raw %}{{ stream }}{% endraw %}'
   labels.category = 'dockerlogs'
 ```
 
