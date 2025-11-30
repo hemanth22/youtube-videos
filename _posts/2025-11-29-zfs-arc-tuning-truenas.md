@@ -266,6 +266,11 @@ This layout avoids wasted SSD writes, improves responsiveness, and keeps databas
 
 ---
 
+## Join the conversation
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">I&#39;ve been tuning my hybrid ZFS pool lately. Optane for metadata and small files, HDDs for bulk storage, and cleaned up my L2ARC. Things are finally starting to feel right.<a href="https://t.co/kk9YxsAdGi">https://t.co/kk9YxsAdGi</a></p>&mdash; Techno Tim (@TechnoTimLive) <a href="https://twitter.com/TechnoTimLive/status/1995191512922263881?ref_src=twsrc%5Etfw">November 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
 🤝 Support the channel and [help keep this site ad-free](/sponsor)
 
 🛍️ Check out all merch: <https://shop.technotim.live/>
