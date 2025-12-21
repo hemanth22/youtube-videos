@@ -53,6 +53,8 @@ Instead of guessing, you can correlate behavior over hours, days, or weeks.
 
 Everything is deployed using a single Docker Compose stack with all services preconfigured and wired together.
 
+🔗 **[Complete configuration and files available on GitHub](https://github.com/timothystewart6/unpoller-unifi)**
+
 ### Services Included
 
 - **Prometheus** – metrics storage
@@ -121,37 +123,55 @@ All containers run as the same UID/GID as the host user, allowing Docker to crea
 
 Unpoller is configured via environment variables. You do not need to tune every option to get started.
 
-#### Required Settings
+> *Note: All pre-configured .env files for every service are included in the [GitHub repository](https://github.com/timothystewart6/unpoller-unifi). You only need to update the UniFi controller details and credentials.*
+{: .prompt-info }
 
-You must configure the following:
+#### Complete Unpoller Configuration
+
+Here's the complete `unpoller/.env` file:
 
 ```console
-UP_UniFi_CONTROLLER_0_URL=https://192.168.10.1
-UP_UniFi_CONTROLLER_0_USER=unpoller
-UP_UniFi_CONTROLLER_0_PASS=REDACTED
-UP_UniFi_CONTROLLER_0_SITE=default
+UP_INFLUXDB_DISABLE=true
+UP_POLLER_DEBUG=false
+UP_UNIFI_DYNAMIC=false
+UP_PROMETHEUS_HTTP_LISTEN=0.0.0.0:9130
+UP_PROMETHEUS_NAMESPACE=unpoller
+UP_UNIFI_CONTROLLER_0_VERIFY_SSL=false
+UP_UNIFI_CONTROLLER_0_SAVE_ALARMS=true
+UP_UNIFI_CONTROLLER_0_SAVE_ANOMALIES=true
+UP_UNIFI_CONTROLLER_0_SAVE_EVENTS=true
+UP_UNIFI_CONTROLLER_0_SAVE_IDS=true
+UP_UNIFI_CONTROLLER_0_SAVE_SITES=true
+UP_UNIFI_CONTROLLER_0_VERIFY_SSL=false
+UP_UNIFI_CONTROLLER_0_SAVE_DPI=false
+
+UP_UNIFI_CONTROLLER_0_URL=https://192.168.10.1 # change to your Unifi Controller URL
+UP_UNIFI_CONTROLLER_0_USER=unpoller # change to your Unifi Controller username
+UP_UNIFI_CONTROLLER_0_PASS=password123 # change to your Unifi Controller password
+UP_UNIFI_CONTROLLER_0_SITE=default # this is usually 'default', change if needed
+TZ=America/Chicago # change to your timezone
 ```
+
+The **required** settings you must update are:
+
+- `UP_UNIFI_CONTROLLER_0_URL` - Your UniFi controller address
+- `UP_UNIFI_CONTROLLER_0_USER` - UniFi username  
+- `UP_UNIFI_CONTROLLER_0_PASS` - UniFi password
+- `UP_UNIFI_CONTROLLER_0_SITE` - Usually "default"
 
 #### UniFi User Requirement
 
 Unpoller authenticates to UniFi using a standard UniFi account.
 
-Create a local UniFi user
-
-Read-only permissions are typically sufficient
-
-Use these credentials in the Unpoller .env file
+- Create a dedicated local UniFi account that has read-only access to your Network controller
+- Read-only permissions are sufficient
+- Use these credentials in the Unpoller .env file
 
 If authentication fails, this is the first thing to double-check.
 
 #### Prometheus Metrics Endpoint
 
-```console
-UP_PROMETHEUS_HTTP_LISTEN=0.0.0.0:9130
-UP_PROMETHEUS_NAMESPACE=unpoller
-```
-
-This exposes the /metrics endpoint that Prometheus will scrape.
+The Prometheus metrics endpoint is configured in the complete `.env` file above and exposes metrics at `/metrics` that Prometheus will scrape.
 
 ### Prometheus Scrape Configuration
 
@@ -192,6 +212,16 @@ With everything configured, bring the stack up:
 docker compose up -d
 ```
 
+## Access
+
+| Service | URL |
+| ------- | --- |
+| Grafana | <http://localhost:3000> |
+| Prometheus | <http://localhost:9090> |
+| Dozzle (logs) | <http://localhost:8080> |
+
+**Grafana default login**: admin/admin123 (change in `grafana/.env`)
+
 ### Grafana Provisioning
 
 Grafana is fully provisioned using files on disk.
@@ -200,9 +230,22 @@ Grafana is fully provisioned using files on disk.
 - Dashboards are loaded automatically on startup
 - No manual imports required
 
+> *Note: All Grafana datasources and dashboards are included in the [GitHub repository](https://github.com/timothystewart6/unpoller-unifi) under the `grafana/` directory.*
+{: .prompt-info }
+
 This approach is repeatable, versionable, and aligns with how Grafana is typically managed in production.
 
 ## Dashboards and What They Enable
+
+The stack includes pre-configured Grafana dashboards for comprehensive UniFi network monitoring:
+
+- **Access Points** - Client counts, radio utilization, 2.4/5/6 GHz visibility
+- **Switches** - Port utilization, throughput, and performance metrics
+- **Gateway** - WAN performance, throughput, and edge behavior
+- **Clients** - Connection history, device behavior, and usage patterns
+- **DPI** - Deep packet inspection and traffic insights (requires gateway support)
+- **Sites** - Multi-site overview and comparison
+- **PDU** - Power distribution unit metrics (hardware-dependent)
 
 ### Access Points
 
@@ -233,6 +276,16 @@ Several additional dashboards are included but not required for day-one value:
 - DPI - traffic insights (depends on gateway support and configuration)
 
 For example, the DPI dashboard will populate automatically if DPI is enabled and supported by your gateway. Not every UniFi deployment will expose every metric - that’s expected.
+
+## Troubleshooting
+
+If you run into issues, here are the most common solutions:
+
+- **Check logs**: `docker compose logs [service-name]` or use Dozzle at <http://localhost:8080>
+- **Verify UniFi controller accessibility** from Docker network
+- **Ensure a local UniFi account** has been created with read-only/view-only network controller access
+- **For 429 errors**, increase scrape interval in `prometheus/config/prometheus.yml`
+- **If dashboards are empty**, check the Prometheus scrape configuration
 
 ## Summary
 
