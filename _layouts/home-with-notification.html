@@ -1,0 +1,12 @@
+---
+layout: home
+---
+
+<!-- DEBUG: This should appear in the HTML source -->
+<div style="background: red; color: white; padding: 10px; text-align: center;">
+  DEBUG: Layout is working. Notification enabled: {{ site.notification.enabled }}
+</div>
+
+{% include notification-banner.html %}
+
+{{ content }}
