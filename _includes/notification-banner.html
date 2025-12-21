@@ -8,7 +8,7 @@
       {% endif %}
       {{ site.notification.message }}
       {% if site.notification.link_text and site.notification.link_url %}
-        <a href="{{ site.notification.link_url }}" class="notification-link" 
+        <a href="{{ site.notification.link_url }}" class="notification-link"
            {% if site.notification.link_external %}target="_blank" rel="noopener noreferrer"{% endif %}>
           {{ site.notification.link_text }}
         </a>
@@ -97,11 +97,11 @@
   .notification-banner {
     padding: 10px 12px;
   }
-  
+
   .notification-content {
     gap: 8px;
   }
-  
+
   .notification-message {
     font-size: 0.9em;
   }
@@ -127,7 +127,7 @@ function closeNotification() {
 document.addEventListener('DOMContentLoaded', function() {
   const banner = document.getElementById('notification-banner');
   const notificationId = '{{ site.notification.id | default: "default" }}';
-  
+
   if (banner && localStorage.getItem('notification-dismissed-' + notificationId) === 'true') {
     banner.classList.add('hidden');
   }
