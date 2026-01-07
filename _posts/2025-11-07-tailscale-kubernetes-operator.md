@@ -400,7 +400,7 @@ I’m Tim - thanks for reading and for watching.
 
 🧠 Learn more about [Tailscale’s Kubernetes Operator](https://tailscale.com/kubernetes-operator)
 
-🛍️ Check out my [recommended gear](https://l.technotim.live/gear)
+🛍️ Check out my [recommended gear](https://l.technotim.com/gear)
 
 🤝 Support the channel and [help keep this site ad-free](/sponsor)
 

@@ -35,11 +35,11 @@ Well, for me it was complexity and knowing where to start.
 
 ## Hardware
 
-Ubiquiti UniFi 6 Lite Access Point - <https://l.technotim.live/ubiquiti>
+Ubiquiti UniFi 6 Lite Access Point - <https://l.technotim.com/ubiquiti>
 
-UniFI UDM SE - <https://l.technotim.live/ubiquiti>
+UniFI UDM SE - <https://l.technotim.com/ubiquiti>
 
-UniFi UDM Pro - <https://l.technotim.live/ubiquiti>
+UniFi UDM Pro - <https://l.technotim.com/ubiquiti>
 
 (Affiliate links are included in this description. I may receive a small commission at no cost to you.)
 
@@ -174,8 +174,8 @@ At this point you should have a new VLAN that works on your WiFi access points, 
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files

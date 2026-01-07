@@ -14,7 +14,7 @@ The UDM Pro Max is here and it's packed with upgrades like a faster CPU, more RA
 {% include embed/youtube.html id='Vk32qJk_gLI' %}
 📺 [Watch Video](https://www.youtube.com/watch?v=Vk32qJk_gLI)
 
-- Get your UDM Pro Max here: <https://l.technotim.live/udm-pro-max> (affiliate link)
+- Get your UDM Pro Max here: <https://l.technotim.com/udm-pro-max> (affiliate link)
 
 Disclosures:
 
@@ -28,10 +28,10 @@ Disclosures:
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

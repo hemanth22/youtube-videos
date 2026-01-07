@@ -306,6 +306,6 @@ This approach removes much of the guesswork from monitoring and gives you both b
 
 🤝 Support the channel and [help keep this site ad-free](/sponsor)  
 
-🛍️ Check out all merch: <https://shop.technotim.live/>
+🛍️ Check out all merch: <https://shop.technotim.com/>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>

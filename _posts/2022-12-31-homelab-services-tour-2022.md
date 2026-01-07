@@ -58,17 +58,17 @@ Check out the kit here: <https://kit.co/TechnoTim/techno-tim-homelab-tour-late-2
 - 1u Rack Mount Full Depth Shelf <https://amzn.to/3jrm5Kp>
 - Right Angle Extension Cord <https://amzn.to/3Wl7gay>
 - Black Outlet Covers <https://amzn.to/3jrf7Vu>
-- UniFi SmartPower PDU Pro <https://l.technotim.live/ubiquiti>
+- UniFi SmartPower PDU Pro <https://l.technotim.com/ubiquiti>
 
 ### Network
 
 - Patch Panel <https://amzn.to/3YIKtHq>
 - Wall Mount Patch Panel <https://amzn.to/3WyvnCk>
 - Slim Network Cables - <https://amzn.to/3kbYV85>
-- UniFi Flex Mini - <https://l.technotim.live/ubiquiti>
-- UDM SE - <https://l.technotim.live/ubiquiti>
-- UDM Pro - <https://l.technotim.live/ubiquiti>
-- UniFi 48 Port Pro Switch Gen 2 - <https://l.technotim.live/ubiquiti>
+- UniFi Flex Mini - <https://l.technotim.com/ubiquiti>
+- UDM SE - <https://l.technotim.com/ubiquiti>
+- UDM Pro - <https://l.technotim.com/ubiquiti>
+- UniFi 48 Port Pro Switch Gen 2 - <https://l.technotim.com/ubiquiti>
 
 ### Servers & Accessories
 
@@ -160,8 +160,8 @@ Check out the kit here: <https://kit.co/TechnoTim/techno-tim-homelab-tour-late-2
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files

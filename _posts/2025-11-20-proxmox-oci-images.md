@@ -176,6 +176,6 @@ I'm Tim.---
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Proxmox 9.1 adds support for OCI containers.<br>That means you can now run Docker-style workloads inside Proxmox using LXC.<br>I tested it, showed how it works, and covered the current limitations.<a href="https://t.co/ieY0JDxHmm">https://t.co/ieY0JDxHmm</a></p>&mdash; Techno Tim (@TechnoTimLive) <a href="https://twitter.com/TechnoTimLive/status/1991569879015772535?ref_src=twsrc%5Etfw">November 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
-🛍️ Check out my [recommended gear](https://l.technotim.live/gear)
+🛍️ Check out my [recommended gear](https://l.technotim.com/gear)
 
 🤝 Support the channel and [help keep this site ad‑free](/sponsor)

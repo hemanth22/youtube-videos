@@ -15,13 +15,13 @@ Today, I launched the Techno Tim Shop with its first drop: the "Dark Mode Everyt
 
 Keep in mind that this is not a print-on-demand service, so supplies are truly limited for this initial drop. Thank you all for helping me get to this point! I couldn't have done it without you!
 
-<https://shop.technotim.live>
+<https://shop.technotim.com>
 
 ## Where to Buy
 
 You can see all of the items I offer in my shop here:
 
-- <https://shop.technotim.live>
+- <https://shop.technotim.com>
 
 (Affiliate links may be included. I may receive a small commission at no cost to you.)
 
@@ -31,10 +31,10 @@ You can see all of the items I offer in my shop here:
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

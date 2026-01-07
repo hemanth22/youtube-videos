@@ -16,7 +16,7 @@ Here's all of the hardware I am running in my Homelab in 2025!  Software / servi
 
 ## Info
 
-Merch Shop 🛍️: <https://l.technotim.live/shop>
+Merch Shop 🛍️: <https://l.technotim.com/shop>
 
 ## 📦 Gear in this video 📦
 
@@ -28,7 +28,7 @@ Merch Shop 🛍️: <https://l.technotim.live/shop>
 - 1u Rack Mount Full Depth Shelf <https://amzn.to/3jrm5Kp>
 - Right Angle Extension Cord <https://amzn.to/3Wl7gay>
 - Black Outlet Covers <https://amzn.to/3jrf7Vu>
-- UniFi SmartPower <https://l.technotim.live/ubiquiti>
+- UniFi SmartPower <https://l.technotim.com/ubiquiti>
 
 ### Network
 
@@ -37,10 +37,10 @@ Merch Shop 🛍️: <https://l.technotim.live/shop>
 - Slim Network Cables <https://amzn.to/3kbYV85>
 - SFP+ Dust Covers <https://amzn.to/3TmGfou>
 - SFP+ DAC <https://amzn.to/3TajUut>
-- UniFi Flex <https://l.technotim.live/ubiquiti>
-- UniFi Fortress Gateway <https://l.technotim.live/ubiquiti>
-- UniFi NVR <https://l.technotim.live/ubiquiti>
-- UniFi 48 Port Enterprise <https://l.technotim.live/ubiquiti>
+- UniFi Flex <https://l.technotim.com/ubiquiti>
+- UniFi Fortress Gateway <https://l.technotim.com/ubiquiti>
+- UniFi NVR <https://l.technotim.com/ubiquiti>
+- UniFi 48 Port Enterprise <https://l.technotim.com/ubiquiti>
 
 ### Servers & Accessories
 
@@ -96,10 +96,10 @@ Merch Shop 🛍️: <https://l.technotim.live/shop>
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Here&#39;s all of the hardware I am running in my Homelab in 2025!<a href="https://t.co/JI1na2cbMp">https://t.co/JI1na2cbMp</a> <a href="https://t.co/VUGuw7vBNE">pic.twitter.com/VUGuw7vBNE</a></p>&mdash; Techno Tim (@TechnoTimLive) <a href="https://twitter.com/TechnoTimLive/status/1876321850609070123?ref_src=twsrc%5Etfw">January 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

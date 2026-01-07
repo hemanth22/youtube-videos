@@ -16,8 +16,8 @@ Meet Scrypted an Open Source app that will let you connect almost any camera to 
 
 ## Where to Buy
 
-- UniFi UDM SE - <https://l.technotim.live/ubiquiti>
-- UniFi Cameras - <https://l.technotim.live/ubiquiti>
+- UniFi UDM SE - <https://l.technotim.com/ubiquiti>
+- UniFi Cameras - <https://l.technotim.com/ubiquiti>
 - Apple TV 4k - <https://amzn.to/3M1ZFtz>
 - Apple iPad - <https://amzn.to/3VX1k8z>
 - Echo Dot - <https://amzn.to/44YmpTW>
@@ -235,8 +235,8 @@ One of the things I like most about  Scrypted is that I can use almost any camer
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files

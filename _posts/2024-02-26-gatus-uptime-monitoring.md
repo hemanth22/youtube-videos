@@ -179,36 +179,36 @@ endpoint-defaults: &defaults
     - "[CERTIFICATE_EXPIRATION] > 48h"
 
 endpoints:
-  - name: shop.technotim.live - HTTP
+  - name: shop.technotim.com - HTTP
     <<: *defaults
-    url: "https://shop.technotim.live"
+    url: "https://shop.technotim.com"
   
-  - name: technotim.live - HTTP
+  - name: technotim.com - HTTP
     <<: *defaults
-    url: "https://technotim.live"
+    url: "https://technotim.com"
 
-  - name: links.technotim.live - HTTP
+  - name: links.technotim.com - HTTP
     <<: *defaults
-    url: "https://links.technotim.live"
+    url: "https://links.technotim.com"
 
-  - name: l.technotim.live - HTTP
+  - name: l.technotim.com - HTTP
     <<: *defaults
-    url: "https://l.technotim.live"
+    url: "https://l.technotim.com"
 
-  - name: shop.technotim.live - DNS
+  - name: shop.technotim.com - DNS
     group: External
     url: "8.8.8.8" # Address of the DNS server to use
     interval: 5m
     dns:
-      query-name: "shop.technotim.live"
+      query-name: "shop.technotim.com"
       query-type: "A"
     conditions:
       - "[BODY] == 23.227.38.74"
       - "[DNS_RCODE] == NOERROR"
 
-  - name: shop.technotim.live - Ping
+  - name: shop.technotim.com - Ping
     group: External
-    url: "icmp://shop.technotim.live"
+    url: "icmp://shop.technotim.com"
     interval: 1m
     conditions:
       - "[CONNECTED] == true"
@@ -303,36 +303,36 @@ endpoint-defaults: &defaults
     - type: discord
 
 endpoints:
-  - name: shop.technotim.live - HTTP
+  - name: shop.technotim.com - HTTP
     <<: *defaults
-    url: "https://shop.technotim.live"
+    url: "https://shop.technotim.com"
 
-  - name: technotim.live - HTTP
+  - name: technotim.com - HTTP
     <<: *defaults
-    url: "https://technotim.live"
+    url: "https://technotim.com"
 
-  - name: links.technotim.live - HTTP
+  - name: links.technotim.com - HTTP
     <<: *defaults
-    url: "https://links.technotim.live"
+    url: "https://links.technotim.com"
 
-  - name: l.technotim.live - HTTP
+  - name: l.technotim.com - HTTP
     <<: *defaults
-    url: "https://l.technotim.live"
+    url: "https://l.technotim.com"
 
-  - name: shop.technotim.live - DNS
+  - name: shop.technotim.com - DNS
     group: External
     url: "8.8.8.8" # Address of the DNS server to use
     interval: 5m
     dns:
-      query-name: "shop.technotim.live"
+      query-name: "shop.technotim.com"
       query-type: "A"
     conditions:
       - "[BODY] == 23.227.38.74"
       - "[DNS_RCODE] == NOERROR"
 
-  - name: shop.technotim.live - Ping
+  - name: shop.technotim.com - Ping
     group: External
-    url: "icmp://shop.technotim.live"
+    url: "icmp://shop.technotim.com"
     interval: 1m
     conditions:
       - "[CONNECTED] == true"
@@ -351,10 +351,10 @@ endpoints:
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

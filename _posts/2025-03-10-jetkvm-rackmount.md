@@ -38,10 +38,10 @@ Other Products I used (affiliate links below)
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark">This is getting out of hand.... Now there are 6 of them!<a href="https://t.co/u7UzgKWwEr">https://t.co/u7UzgKWwEr</a> <a href="https://t.co/Xk9A2oYjKu">pic.twitter.com/Xk9A2oYjKu</a></p>&mdash; Techno Tim (@TechnoTimLive) <a href="https://twitter.com/TechnoTimLive/status/1899152731480227998?ref_src=twsrc%5Etfw">March 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

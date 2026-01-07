@@ -16,7 +16,7 @@ If you want to set up Kubernetes at home using Rancher to run Docker containers,
 
 📺 [Watch Video](https://www.youtube.com/watch?v=oILc0ywDVTk)
 
-See all the hardware I recommend at <https://l.technotim.live/gear>
+See all the hardware I recommend at <https://l.technotim.com/gear>
 
 ## Install Docker
 
@@ -46,8 +46,8 @@ docker run -d --restart=unless-stopped -p 9090:80 -p 9091:443 --privileged -v /o
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files

@@ -23,7 +23,7 @@ Here is the diagram for my network!
 ![Network Diagram (Logical) 2024](/assets/img/posts/network-diagram-logical-2024.webp){: lqip="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIAAoACgMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP7U/h/8afB1tYw2/jz4kWFp440LVb/wx4w03xXa+H/AniY6zrnifSdO8LjV/Bmk6zq1vHc3Fjqngu00Ke1vL2SfSvEuk3tytlNrT2tt+qcScDZ/Uxrnw7wxWr8O5jg6Oa5Ni8nrZjxBlawWAyrG4vNfqeeYvB4KpKlRrYTOqmYUq2Go8mLy3F0qLr08D7ap+U8NcdcP08EocRcU0KPEeW42tlOdYTN6OXcP5o8bmOa4LCZSsbkWDxmOpwrVqOLySll9WliazlhMzwdWsqFTMPYU/wAvbf4UePbu3gu0+KHxpiS6hiuEiuPh7qyXEazIsixzo/imR1mQMFlV5HZXDBnYgsf6kxHF3D9HEV6UuFeEpypVqtOUqPEPNRk4TlFypOngadN0m1em4U6cHFpxhFWiv5Sw/B3EFbD0Kq4s4wgqtGlUUK2QONaKnCMlGrGpjqlSNWKdqkZ1Kk1JNSnKV5P72+Hek6Uf2xvi7qh0zTzqcOtXSxaibO2N9ELr4X/CyK6Ed35f2hBcx2lrHcBZAJktrdJNywxhfwXiTE4n/iC/BuH+sV/q88JT56HtansZ+x4n4plR5qXNyS9lKtWlTvF8jq1HGznK/wC/cNYXDf8AEb+M8R9XofWIYqpyV/ZU/bR9twtwrGty1eXnj7WNGjGpaS51SpqV1CNvvGvwE/oU/wD/2Q==" }
 _A logical Network Diagram of my HomeLab including VLANs and servers_
 
-Since many have asked, I use [Figma](https://l.technotim.live/figma) to design my network diagrams. (affiliate link but they have a free plan)
+Since many have asked, I use [Figma](https://l.technotim.com/figma) to design my network diagrams. (affiliate link but they have a free plan)
 
 ## Services I use
 
@@ -79,7 +79,7 @@ Tutorials:
 
 Sites:
 
-- [UniFi Network Controller](https://l.technotim.live/ubiquiti) (affiliate link)
+- [UniFi Network Controller](https://l.technotim.com/ubiquiti) (affiliate link)
 
 Tutorials:
 
@@ -90,7 +90,7 @@ Tutorials:
 
 Sites:
 
-- [UniFi Protect](https://l.technotim.live/ubiquiti) (affiliate link)
+- [UniFi Protect](https://l.technotim.com/ubiquiti) (affiliate link)
 
 Tutorials:
 
@@ -140,7 +140,7 @@ Tutorials:
 Sites:
 
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma)
-- [Uptime Robot](https://l.technotim.live/uptime-robot) (affiliate link)
+- [Uptime Robot](https://l.technotim.com/uptime-robot) (affiliate link)
 
 Tutorials:
 
@@ -272,10 +272,10 @@ Tutorials:
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

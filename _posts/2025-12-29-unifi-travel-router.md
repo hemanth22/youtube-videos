@@ -167,6 +167,6 @@ If you’ve got questions you want me to test during travel (hotels, airports, c
 
 🤝 Support the channel and [help keep this site ad-free](/sponsor)  
 
-🛍️ Check out all merch: <https://shop.technotim.live/>
+🛍️ Check out all merch: <https://shop.technotim.com/>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>

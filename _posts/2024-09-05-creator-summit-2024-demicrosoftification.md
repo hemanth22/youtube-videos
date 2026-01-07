@@ -24,7 +24,7 @@ Thanks to 45Drives for inviting me to this event!  If you'd like to learn more a
 
 Here are some helpful links:
 
-- Link to my presentation at the Creator Summit: <https://l.technotim.live/demicrosoftification-presentation>
+- Link to my presentation at the Creator Summit: <https://l.technotim.com/demicrosoftification-presentation>
 - 45Drives live stream of the event: <https://www.youtube.com/watch?v=fCvXw86pqPw>
 - Craft Computing's live stream we all crashed: <https://www.youtube.com/watch?v=AcA1DYzVSK8>
 
@@ -34,10 +34,10 @@ Here are some helpful links:
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

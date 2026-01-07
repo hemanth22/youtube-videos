@@ -28,7 +28,7 @@ I knew nothing about Unraid until today. I finally installed Unraid in my HomeLa
 
 ## Unraid License
 
-- Unraid Buying Options: <https://l.technotim.live/unraid>
+- Unraid Buying Options: <https://l.technotim.com/unraid>
 
 (Affiliate links may be included in this description. I may receive a small commission at no cost to you.)
 
@@ -38,7 +38,7 @@ I knew nothing about Unraid until today. I finally installed Unraid in my HomeLa
 - Sponsor me on GitHub: <https://github.com/sponsors/timothystewart6>
 - Subscribe on Twitch: <https://www.twitch.tv/technotim>
 - Become a YouTube member: <https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join>
-- Merch Shop 🛍️: <https://l.technotim.live/shop>
+- Merch Shop 🛍️: <https://l.technotim.com/shop>
 
 ## Join the conversation
 
@@ -46,10 +46,10 @@ I knew nothing about Unraid until today. I finally installed Unraid in my HomeLa
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

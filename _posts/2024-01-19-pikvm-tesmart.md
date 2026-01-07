@@ -259,7 +259,7 @@ Here are the items that I used during this project.
 
 - PiKVM - <https://pikvm.org>
 - TESmart Switch - <https://amzn.to/3YV0Gsi>
-- TESmart Switch (buy direct, usually cheaper) - <https://l.technotim.live/tesmart>
+- TESmart Switch (buy direct, usually cheaper) - <https://l.technotim.com/tesmart>
 - HDMI Cables - <https://amzn.to/3SgJ34g>
 - USB B Cables - <https://amzn.to/3Eel0wU>
 - EDID emulator (the ones I use) - <https://amzn.to/3tQp04Z>
@@ -275,10 +275,10 @@ Here are the items that I used during this project.
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
 
 🤝 Support me and [help keep this site ad-free!](/sponsor)

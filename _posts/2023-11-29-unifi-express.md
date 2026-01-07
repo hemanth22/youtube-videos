@@ -234,7 +234,7 @@ Well I learned a ton about the net UniFi Express, how to mesh wireless networks,
 
 UniFi Express:
 
-- <https://l.technotim.live/ubiquiti>
+- <https://l.technotim.com/ubiquiti>
 
 Other items in this video (because I know you will ask)
 
@@ -246,8 +246,8 @@ Other items in this video (because I know you will ask)
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files

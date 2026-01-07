@@ -25,14 +25,14 @@ Disclosures:
 
 ## Where to Buy
 
-- UniFi Pro Max Switches <https://l.technotim.live/ubiquiti>
+- UniFi Pro Max Switches <https://l.technotim.com/ubiquiti>
 
 (Affiliate links may be included in this description. I may receive a small commission at no cost to you.)
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files

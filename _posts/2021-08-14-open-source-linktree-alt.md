@@ -50,14 +50,14 @@ services:
       - AVATAR_ALT=Techno Tim Profile Pic
       - NAME=TechnoTim
       - BIO=Hey! Just a place where you can connect with me!
-      - GITHUB=https://l.technotim.live/github
-      - TWITTER=https://l.technotim.live/twitter
-      - INSTAGRAM=https://l.technotim.live/instagram
-      - YOUTUBE=https://l.technotim.live/subscribe
-      - TWITCH=https://l.technotim.live/twitch/
-      - DISCORD=https://l.technotim.live/discord
-      - TIKTOK=https://l.technotim.live/tiktok
-      - KIT=https://l.technotim.live/gear
+      - GITHUB=https://l.technotim.com/github
+      - TWITTER=https://l.technotim.com/twitter
+      - INSTAGRAM=https://l.technotim.com/instagram
+      - YOUTUBE=https://l.technotim.com/subscribe
+      - TWITCH=https://l.technotim.com/twitch/
+      - DISCORD=https://l.technotim.com/discord
+      - TIKTOK=https://l.technotim.com/tiktok
+      - KIT=https://l.technotim.com/gear
       # - FACEBOOK=https://facebook.com
       # - FACEBOOK_MESSENGER=https://facebook.com
       # - LINKED_IN=https://linkedin.com
@@ -104,14 +104,14 @@ docker run -d \
   -e AVATAR_ALT='Techno Tim Profile Pic' \
   -e NAME='TechnoTim' \
   -e BIO='Hey! Just a place where you can connect with me!' \
-  -e GITHUB='https://l.technotim.live/github' \
-  -e TWITTER='https://l.technotim.live/twitter' \
-  -e INSTAGRAM='https://l.technotim.live/instagram' \
-  -e YOUTUBE='https://l.technotim.live/subscribe' \
-  -e TWITCH='https://l.technotim.live/twitch' \
-  -e DISCORD='https://l.technotim.live/discord' \
-  -e TIKTOK='https://l.technotim.live/tiktok' \
-  -e KIT='https://l.technotim.live/gear' \
+  -e GITHUB='https://l.technotim.com/github' \
+  -e TWITTER='https://l.technotim.com/twitter' \
+  -e INSTAGRAM='https://l.technotim.com/instagram' \
+  -e YOUTUBE='https://l.technotim.com/subscribe' \
+  -e TWITCH='https://l.technotim.com/twitch' \
+  -e DISCORD='https://l.technotim.com/discord' \
+  -e TIKTOK='https://l.technotim.com/tiktok' \
+  -e KIT='https://l.technotim.com/gear' \
   --restart unless-stopped \
   ghcr.io/timothystewart6/littlelink-server:latest
 ```
@@ -120,8 +120,8 @@ If you're using Rancher, Portainer, Open Media Vault, Unraid, or anything else w
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files

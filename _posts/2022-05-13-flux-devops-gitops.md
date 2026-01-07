@@ -26,7 +26,7 @@ If you're looking to install your own Kubernetes cluster, be sure to check out [
 
 ## Reference Repo
 
-If you're looking for the repo I created this in video, you can [find it here](https://l.technotim.live/quick-start) `/demos/flux-demo`
+If you're looking for the repo I created this in video, you can [find it here](https://l.technotim.com/quick-start) `/demos/flux-demo`
 
 ## Install Flux CLI
 
@@ -57,15 +57,15 @@ kubectl get pods -n flux-system
 
 ## Source Controller (installing manifests)
 
-See [reference repo](https://l.technotim.live/quick-start) for files, located in `/demos/flux-demo`
+See [reference repo](https://l.technotim.com/quick-start) for files, located in `/demos/flux-demo`
 
 ## Helm Controller (installing helm charts)
 
-See [reference repo](https://l.technotim.live/quick-start) for files, `/demos/flux-demo`
+See [reference repo](https://l.technotim.com/quick-start) for files, `/demos/flux-demo`
 
 ## Image Automation Controller (monitoring a container registry)
 
-See [reference repo](https://l.technotim.live/quick-start) for files, `/demos/flux-demo`
+See [reference repo](https://l.technotim.com/quick-start) for files, `/demos/flux-demo`
 
 First create a workload (see redis deployment file)
 
@@ -219,8 +219,8 @@ If you need to update flux, check out [Updating Flux Installation Using the Late
 
 ## Links
 
-🛍️ Check out the new Merch Shop at <https://l.technotim.live/shop>
+🛍️ Check out the new Merch Shop at <https://l.technotim.com/shop>
 
-⚙️ See all the hardware I recommend at <https://l.technotim.live/gear>
+⚙️ See all the hardware I recommend at <https://l.technotim.com/gear>
 
-🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.live/quick-start) with all of the quick start source files
+🚀 Don't forget to check out the [🚀Launchpad repo](https://l.technotim.com/quick-start) with all of the quick start source files
