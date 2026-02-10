@@ -20,6 +20,11 @@ In this video, I set it up the way I’d actually use it: bulk storage on SATA, 
 
 ---
 
+## Where to buy
+
+- [Beelink ME Pro — Amazon (affiliate)](https://amzn.to/3ZpYPxZ)
+- [Beelink ME Pro — Beelink store (non-affiliate)](https://www.bee-link.com/products/beelink-me-pro)
+
 ## What the ME Pro is
 
 Think of the ME Pro as a tiny NAS style mini PC that’s meant to be opened up.
