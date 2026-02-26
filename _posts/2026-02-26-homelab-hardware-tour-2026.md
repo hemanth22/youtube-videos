@@ -27,10 +27,10 @@ Before we even touch the rack, let’s start with the wall stuff that keeps ever
 - **Internet coming in**: I have two fiber lines coming to the house - one buried line coming in from the front, and one coming in from the back of the house overhead/from the pole - but I’ve fully switched to one provider as the primary which is Quantum Internet.
 - **Old fiber ONT**: my previous fiber gear is still here, but currently unplugged.  USI, while great, is twice the price and half the speed of Quantum.  I used them for years, and a great service, but I am able to have fiber internet with Quantum + T-Mobile 5G Home Internet as a backup for the same price.  USI needs to lower their price now that they have real competition.
 - **Backup internet (5G)**: my backup right now is **T-Mobile Home Internet over 5G** - it’s cheaper than keeping a second fiber line, and it’s already failed over a few times without issues when my primary internet goes down. I was also hoping to use it with the **UniFi 5G Max**, but the SIM is locked to T-Mobile’s gateway.
-- **UniFi phone**: mounted on a 3D-printed bracket from earlier testing (I don’t run UniFi Talk full time).
+- **UniFi phone**: mounted on a 3D-printed bracket from earlier testing (I don’t run UniFi Talk full time, I was only testing it).
 - **Hue hubs (yes, four)**: I still run multiple Hue hubs because of **Hue Play** - I have three Play setups, and each one needs its own hub.
 - **Small PoE switch (wall)**: PoE powers a small switch on the wall, which the Hue hubs connect through.
-- **Whole-home wiring**: this is where all the home runs land; it’s older Cat5e, punched down and still doing the job (yes, even for 10Gb in places).
+- **Whole-home wiring**: this is where all the home cable runs land; it’s older Cat5e, punched down and still doing the job (yes, even for 10Gb in places).
 ![Wall of Tech](/assets/img/posts/homelab-2026/homelab-2026-wall-of-tech.webp){: lqip="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIAAYACgMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APZ/gZ+3rc/Ga+8OHw18PbPSJfDPxjm+HbTapfx2d9Z+Io7vR/iHJqvh/V9Ls7zUdP0G80jxP4Y0O800yC9lnsPEDNevpeprpz+dVy6nhMro16k3VcXJWcU01ThCPK4ybjJXva+lrXVzvWc4jE5pPD4enGhCUPe5pXkpylU96E4wUop2i5K921L3rSsv1Qh+M/iySKKS70LRpruSNHupk1MRJLcMoaaVIl8NbYlkkLOsa/KgIUcCvEU4NJqU0mrpckXZPW1/aa279T3Ob+ZJy6uyV31dkrK71stj/9k=" }
 _The wall of tech_
 
@@ -267,7 +267,7 @@ The goal was to build a better all-in-one system (since new builds and parts are
 
 - **10x 14TB drives** for bulk storage
 - **256GB DDR** (slots are maxed out)
-- A better CPU (a Platinum upgrade from Patrick at Serve The Home)
+- A better CPU (a Platinum upgrade from Patrick at [Serve The Home](https://www.servethehome.com))
 - **Noctua 120mm fans**, a **Noctua Xeon cooler**, and a **Seasonic PRIME 1600W Noctua Edition PSU**
 - More NVMe (including adapters to convert M.2 to U.2, and Oculink into PCIe lanes)
 - An **NVIDIA RTX A2000** inside the chassis for the workloads that need it
