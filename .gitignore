@@ -54,6 +54,10 @@ package-lock.json
 .idea
 .vscode
 
+# Images served from Cloudflare R2
+assets/img/headers/
+assets/img/posts/
+
 # Misc
 assets/js/dist
 
