@@ -272,6 +272,8 @@ On top of that I am also using:
 
 That combination makes the Paperless much more useful than OCR alone. It turns it into something closer to a real document workflow.
 
+I also run [**Stirling PDF**](https://github.com/Stirling-Tools/Stirling-PDF) for general PDF editing. it handles splitting, merging, and converting all within a clean web ui. I forgot to mention this in the video, as I did a few others due to the super long bulleted outline I was following.
+
 ---
 
 ## Visual tools
