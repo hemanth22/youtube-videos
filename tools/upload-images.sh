@@ -31,11 +31,11 @@ if [ -f "$LOCAL_PATH" ]; then
   echo "==> Uploading file: $LOCAL_PATH"
   echo "==> Destination:    $REMOTE:$BUCKET/$DEST_DIR/"
   echo ""
-  rclone copy "$LOCAL_PATH" "$REMOTE:$BUCKET/$DEST_DIR/" --dry-run --progress
+    rclone copy "$LOCAL_PATH" "$REMOTE:$BUCKET/$DEST_DIR/" --s3-no-check-bucket --dry-run --progress
   echo ""
   read -p "Proceed with upload? (y/N) " confirm
   if [[ "$confirm" =~ ^[Yy]$ ]]; then
-    rclone copy "$LOCAL_PATH" "$REMOTE:$BUCKET/$DEST_DIR/" --progress
+    rclone copy "$LOCAL_PATH" "$REMOTE:$BUCKET/$DEST_DIR/" --s3-no-check-bucket --progress
     echo "==> Done!"
   else
     echo "==> Cancelled."
@@ -44,11 +44,11 @@ elif [ -d "$LOCAL_PATH" ]; then
   echo "==> Uploading directory: $LOCAL_PATH"
   echo "==> Destination:         $REMOTE:$BUCKET/$LOCAL_PATH"
   echo ""
-  rclone copy "$LOCAL_PATH" "$REMOTE:$BUCKET/$LOCAL_PATH" --dry-run --progress
+    rclone copy "$LOCAL_PATH" "$REMOTE:$BUCKET/$LOCAL_PATH" --s3-no-check-bucket --dry-run --progress
   echo ""
   read -p "Proceed with upload? (y/N) " confirm
   if [[ "$confirm" =~ ^[Yy]$ ]]; then
-    rclone copy "$LOCAL_PATH" "$REMOTE:$BUCKET/$LOCAL_PATH" --progress
+    rclone copy "$LOCAL_PATH" "$REMOTE:$BUCKET/$LOCAL_PATH" --s3-no-check-bucket --progress
     echo "==> Done!"
   else
     echo "==> Cancelled."
