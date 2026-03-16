@@ -300,7 +300,7 @@ I still like to write code for a lot of the automation I want, mostly because th
 
 I also tried [**Postiz**](https://github.com/gitroomhq/postiz-app) for scheduling social posts. It is useful, and I can see the value, especially for teams or for people planning content farther ahead than I usually do.
 
-Since I am a small color creator, I find this a little less useful than I originally thought it would be.
+Since I am a small solo creator, I find this a little less useful than I originally thought it would be.
 
 ---
 
