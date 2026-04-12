@@ -1,0 +1,6 @@
+# Local development overrides.
+# Use with: bundle exec jekyll serve --config _config.yml,_config.local.yml
+
+url: "http://localhost:4000"
+img_cdn: ""
+cdn: ""
