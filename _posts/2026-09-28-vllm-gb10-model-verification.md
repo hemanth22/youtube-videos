@@ -92,7 +92,7 @@ NVFP4, FP8 KV cache, MoE, and Mamba are also checked against the captured vLLM s
 
 ## The first full run
 
-The first complete four-model run finished with 48 functional checks passing and 0 failures using [`v0.30.0-gb10.3`](https://github.com/timothystewart6/vllm-gb10/releases/tag/v0.30.0-gb10.3). The verification also runs `llama-benchy`, which gives me a consistent set of performance numbers to keep with each release.
+The first complete four-model run finished with 48 functional checks passing and 0 failures in the latest build [`v0.30.0-gb10.3`](https://github.com/timothystewart6/vllm-gb10/releases/tag/v0.30.0-gb10.3). The verification also runs `llama-benchy`, which gives me a consistent set of performance numbers to keep with each release.
 
 | Model | Startup | PP tok/s | TG tok/s | TG tok/s at concurrency 4 |
 | --- | ---: | ---: | ---: | ---: |
